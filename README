@@ -1,0 +1,5 @@
+Net::Dokuwiki - A Perl interface to the Dokuwiki XMLRPC API
+This module provides a Perl interface to the Dokuwiki API. See l<http://dokuwiki.org/devel::xmlrpc>
+for a full description of the Dokuwiki API.
+This program is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself. 
